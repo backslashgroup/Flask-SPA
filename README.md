@@ -7,7 +7,7 @@ Flask-SPA is a minimal Single-Page Applications (SPA) boilerplate with API
 clone the repository
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/backslashgroup/Flask-SPA.git
 ```
 
 ## Installation
